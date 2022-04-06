@@ -1,2 +1,1 @@
-# geometrydashripoff
-ripoff of Geometry Dash.
+<meta http-equiv="Refresh" content="0; url='ScratchDash.htm'" />
